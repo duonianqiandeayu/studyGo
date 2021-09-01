@@ -21,7 +21,7 @@ func sumInt(){
 		sum+=i
 	}
 	fmt.Println(sum)
-	
+
 }
 
 func testFunc(){
